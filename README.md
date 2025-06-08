@@ -1,6 +1,6 @@
-#DSA Practice Makes Perfect
+# DSA Practice Makes Perfect
 
-##The more you practice the more you learn
+## The more you practice the more you learn
 
 - Most of the problems are from LeetCode Platform
 - I Love Java so I practice in Java.
